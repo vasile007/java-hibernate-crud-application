@@ -5,8 +5,6 @@ This project is an Employee Management System built using Java, Spring Boot, Hib
 Technologies Used
 Java: The core language used for development.
 
-Spring Boot: For building the backend API.
-
 Hibernate: Used for object-relational mapping (ORM) with MySQL database.
 
 MySQL: The relational database used to store employee data.
