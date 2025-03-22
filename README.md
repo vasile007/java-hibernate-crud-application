@@ -1,6 +1,6 @@
 Employee Management System
 Project Description
-This project is an Employee Management System built using Java, Spring Boot, Hibernate, and MySQL. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on employee records. It is a simple, database-driven application that allows users to add, update, delete, and view employee details.
+This project is an Employee Management System built using Java, Hibernate, and MySQL. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on employee records. It is a simple, database-driven application that allows users to add, update, delete, and view employee details.
 
 Technologies Used
 Java: The core language used for development.
