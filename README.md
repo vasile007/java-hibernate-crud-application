@@ -21,7 +21,7 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with 
 
 📖 About
 
-### This project demonstrates how to implement basic CRUD operations using Hibernate ORM in Java. It connects to a MySQL database and uses Hibernate to persist and retrieve data using annotated JPA entities.
+#### This project demonstrates how to implement basic CRUD operations using Hibernate ORM in Java. It connects to a MySQL database and uses Hibernate to persist and retrieve data using annotated JPA entities.
 ---
 ###
 🧰 Technologies Used
