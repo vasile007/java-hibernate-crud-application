@@ -1,4 +1,4 @@
-# 🛠️ Java Hibernate CRUD Application
+## 🛠️ Java Hibernate CRUD Application
 
 This is a simple **CRUD (Create, Read, Update, Delete)** application built with **Java** and **Hibernate ORM**, using **MySQL** as the database. It demonstrates basic operations on a `User` entity using Hibernate for object-relational mapping.
 
@@ -40,7 +40,7 @@ git clone https://github.com/your-username/hibernate-crud-app.git
 cd hibernate-crud-app
 ---
 
- # Configure database connection
+ ## Configure database connection
 Edit the hibernate.cfg.xml file and set your database URL, username, and password:
 
 <property name="connection.url">jdbc:mysql://localhost:3306/your_database</property>
