@@ -40,21 +40,21 @@ git clone https://github.com/your-username/hibernate-crud-app.git
 cd hibernate-crud-app
 ---
 
- ## Configure database connection
+ ### Configure database connection
 Edit the hibernate.cfg.xml file and set your database URL, username, and password:
 
 <property name="connection.url">jdbc:mysql://localhost:3306/your_database</property>
 <property name="connection.username">your_username</property>
 <property name="connection.password">your_password</property>
 ---
-# Build the project in bash
+### Build the project in bash
 mvn clean install
 --
 
-# Run the application
+### Run the application
 You can run the main class (e.g. App.java) from your IDE or command line.
 
-🚀 Usage
+###🚀 Usage
 This application performs operations on a simple User entity with fields like id, name, and email. It uses a UserDAO class to manage data operations.
 --
 🧪 Example CRUD Operations
