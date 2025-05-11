@@ -7,7 +7,7 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
-## 📋 Table of Contents
+### 📋 Table of Contents
 
 - [📖 About](#about)
 - [🧰 Technologies Used](#technologies-used)
