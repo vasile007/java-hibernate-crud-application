@@ -31,7 +31,7 @@ This project demonstrates how to implement basic CRUD operations using Hibernate
 
 ---
 
-## ⚙️ Installation & Setup
+### ⚙️ Installation & Setup
 
 ### 1. Clone the repository
 
