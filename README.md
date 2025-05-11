@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 📧 Contact
-Thank you and feel free to open an issue or contact me at: bejan.vasi.com
+Thank you and feel free to open an issue or contact me at: bejan.vasi@yahoo.com
 
 
 
