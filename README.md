@@ -18,11 +18,13 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with 
 - [🛡️ License](#license)
 
 ---
-## 📖 About
+###
+📖 About
 
 This project demonstrates how to implement basic CRUD operations using Hibernate ORM in Java. It connects to a MySQL database and uses Hibernate to persist and retrieve data using annotated JPA entities.
 ---
-## 🧰 Technologies Used
+###
+🧰 Technologies Used
 - Java 11+
 - Hibernate ORM (5.x)
 - JPA (Java Persistence API)
@@ -31,7 +33,8 @@ This project demonstrates how to implement basic CRUD operations using Hibernate
 
 ---
 
-### ⚙️ Installation & Setup
+###
+⚙️ Installation & Setup
 
 ### 1. Clone the repository
 
@@ -54,7 +57,8 @@ mvn clean install
 ### Run the application
 You can run the main class (e.g. App.java) from your IDE or command line.
 
-###🚀 Usage
+###
+🚀 Usage
 This application performs operations on a simple User entity with fields like id, name, and email. It uses a UserDAO class to manage data operations.
 --
 🧪 Example CRUD Operations
