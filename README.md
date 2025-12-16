@@ -1,16 +1,16 @@
-# 🛠️ Java Hibernate CRUD Application
+# Java Hibernate CRUD Application
 
 This is a simple **CRUD (Create, Read, Update, Delete)** application built with Java and Hibernate ORM, using MySQL as the database. It demonstrates basic operations on a `User` entity using JPA and Hibernate.
 
 ---
 
-## 📖 About
+##  About
 
 The project shows how to perform basic database operations using Hibernate ORM. It includes full examples of creating, reading, updating, and deleting data from a MySQL database.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Java 11+
 - Hibernate 5.x
@@ -47,13 +47,13 @@ The project shows how to perform basic database operations using Hibernate ORM. 
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 This project manages a simple `User` entity with fields such as `id`, `name`, and `email`. All CRUD operations are implemented in a `UserDAO` class.
 
 ---
 
-## 🧪 Example CRUD Operations
+##  Example CRUD Operations
 
 ```java
 // Create
@@ -71,26 +71,6 @@ userDao.updateUser(retrieved);
 userDao.deleteUserById(1);
 
 ```
-🤝 Contributing
-Contributions are welcome! Here's how to contribute:
-
-1. Fork the repository
-
-2. Create a new branch: git checkout -b feature-name
-
-3. Commit your changes: git commit -m 'Add feature'
-
-4. Push to your branch: git push origin feature-name
-
-5. Open a Pull Request
-
-
-🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-📧 Contact
-Thank you and feel free to open an issue or contact me at: bejan.vasi@yahoo.com
 
 
 
