@@ -59,17 +59,16 @@ Ensure that the specified database exists in MySQL before running the applicatio
 3. Build the Project
 
 mvn clean install
-
 4. Run the Application
 
 Run the Main.java class from your IDE or using the terminal.
-
 Usage
 
 The application manages a User entity with fields such as id, name, and email.
 All CRUD operations are implemented through the UserDAO class.
 
 Example CRUD Operations
+
 // Create
 User user = new User("John Doe", "john@example.com");
 userDao.saveUser(user);
@@ -84,6 +83,7 @@ userDao.updateUser(retrieved);
 // Delete
 userDao.deleteUserById(1);
 
+
 Purpose & Learning Outcomes
 
 This project was created to demonstrate:
@@ -97,8 +97,6 @@ Clean separation of concerns using DAO pattern
 Integration of Java applications with relational databases
 
 Basic enterprise-style application structure
-
-
 
 
 
